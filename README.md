@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Next JS & Redux Tool**
+- 🌱 I’m currently learning **Next JS & Systems Programming**
 
 - 👨‍💻 All of my projects are available at [https://sreeharisanjeev04.github.io/Portfolio/](https://sreeharisanjeev04.github.io/Portfolio/)
 
