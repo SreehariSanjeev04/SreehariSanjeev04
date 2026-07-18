@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreehari Sanjeev</h1>
-<h3 align="center">Pre-Final CS student @ NIT Calicut</h3>
+<h3 align="center">Final year CS student @ NIT Calicut</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeharisanjeev04" alt="sreeharisanjeev04" /></a> </p>
 
