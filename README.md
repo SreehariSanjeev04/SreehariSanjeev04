@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Next JS & Systems Programming**
+- 🌱 I’m currently learning **Systems Programming**
 
-- 👨‍💻 All of my projects are available at [https://sreeharisanjeev04.github.io/Portfolio/](https://sreeharisanjeev04.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sreeharis.tech/](https://sreeharis.tech/)
 
 - 📫 How to reach me **sreeharisanjeev2004@gmail.com**
 
